@@ -1,0 +1,802 @@
+[
+    {
+        "hash": "276bd3edfb29134c189c3c931544364c3ede5d4290ad05000000000000000000",
+        "block_height": 768729,
+        "block_weight": 3993399,
+        "coinbase_weight": 1108,
+        "coinbase_scriptSig": "\u0003\u067a\u000b\u0019Mined by AntPool \u0000\u0001d\u001b\u0016\u0010mmh\u0019X\u0000/|B\u001cE'pm$e2%\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000^^\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "2d00d9918d307a403dfe28387ce77179cc218d99a92b04000000000000000000",
+        "block_height": 768730,
+        "block_weight": 3993363,
+        "coinbase_weight": 1108,
+        "coinbase_scriptSig": "\u0003\u06ba\u000b\u0019Mined by AntPool \u0003+\u0001j;\u000emm\u06d4Bqo\u0010\u000f\u06fbNqsNS\u073d\u001e\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "298e4228284d8773888955fe416003b8c06d9572e49006000000000000000000",
+        "block_height": 768731,
+        "block_weight": 3993378,
+        "coinbase_weight": 1084,
+        "coinbase_scriptSig": "\u0003\u06fa\u000b\u0013binance/825\u0000\u0001\u0000t\u02b8mmsVL\u000ejY/k4-/A\u0458?*\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000w\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Binance Pool"
+    },
+    {
+        "hash": "b21beb75dc5f7815c4736541b4d0d676853592d83cf100000000000000000000",
+        "block_height": 768733,
+        "block_weight": 3993396,
+        "coinbase_weight": 1084,
+        "coinbase_scriptSig": "\u0003\u077a\u000b\u0013binance/804\u0002E\u0001:mm?k|CB\u00170'y\u0007,WR\u0112GO6\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00001\u0001\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Binance Pool"
+    },
+    {
+        "hash": "e75fda521846f64b549b78dff3605a353bb87205a6cb07000000000000000000",
+        "block_height": 768735,
+        "block_weight": 3993326,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u07fa\u000b\u001bMined by AntPool806\u0002\u001d\u0000_imm\u0010=\t\u000b\u001bq#+\u04c4(Sb\u001f\u000b$R?j\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u00003@\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "e91d11946ea9d35d6283e34325e296c2c07cfee6b8db01000000000000000000",
+        "block_height": 768736,
+        "block_weight": 3992996,
+        "coinbase_weight": 696,
+        "coinbase_scriptSig": "\u0003\u000b\u0000\u0004c\fRS-g\u0001\u0000\u0000\u0000\u0000_Titan.io_",
+        "miner": "Titan"
+    },
+    {
+        "hash": "f4e504794cc2714fe9c4649ab7c8b8f017ad44c44e0406000000000000000000",
+        "block_height": 768737,
+        "block_weight": 3993055,
+        "coinbase_weight": 948,
+        "coinbase_scriptSig": "\u0003\u000b\u0019/ViaBTC/Mined by wumcm20/,mmF]\u001e)^9pM\u07aa;p\u001f\r<&ag{\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u001f\u0002\u0013M\u0018\u007fy\f5\u0000\u0000\u0000\u0000\u0000",
+        "miner": "ViaBTC"
+    },
+    {
+        "hash": "efd2d8a6841f02eb70337ee7cc731df00dbd2f3f7f6603000000000000000000",
+        "block_height": 768738,
+        "block_weight": 3993271,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u000b\u001bMined by AntPool907\u0000\u0015\u0001 )mmZ\u07c3m$<^j0\u007f9\u027b+\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000$\u0000\u0000&\u0001\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "4ec401462af499c0934c325fbabd5925f88a9cbb2a1001000000000000000000",
+        "block_height": 768739,
+        "block_weight": 3998267,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003\u000b,mm\f\u0005j\"\u0006P]\u00100`\t\u0004zn\u0017'\u0005c\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/m\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "7378a6be5e0991a67148a318be81eb4cbf6d756dba6805000000000000000000",
+        "block_height": 768740,
+        "block_weight": 3993420,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u000b\u001bMined by AntPool971\u0001_\u00006%mm\r\u00009.rFLz_S=\\Nc1\u007fV\u001c!\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u00008\u0000\u0000s\u0001\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "bf153e2533df71bae0d83b94e1179404a2acb3af6bab00000000000000000000",
+        "block_height": 768742,
+        "block_weight": 3992911,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003\u000b\u0004\u0006c/Foundry USA Pool #dropgold/\r{\u001f\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "3b6d2de2121ca212095d1e5db7431a8bf6e6691a1f8200000000000000000000",
+        "block_height": 768743,
+        "block_weight": 3993135,
+        "coinbase_weight": 1120,
+        "coinbase_scriptSig": "\u0003\u000b\u001cMined by AntPool906\u0000\u000b\u0002/;\u0001mmBI\u0001Ke\u001dv\u0004G\u0007\\7Nb'\u0016\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u007flZ\u0002\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "fb7186c27011d8b2e7ba104410cd75cf33e45cd1b09107000000000000000000",
+        "block_height": 768744,
+        "block_weight": 3998295,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003\u000b,mm\rLRsr\uc7c0\\wX\u001a]=j\u0010\u0010\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u000e\u0001\u0000\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "19ea830cd772f4f66b3b2ea859b3290f72e92451174a03000000000000000000",
+        "block_height": 768745,
+        "block_weight": 3993432,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u000b\u001bMined by AntPool874,\u0000\u0015\u0000x\bmm)\u0005\u0011|'_\u0629\u0004+K\u0185_*\u000e\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000'2\u0017\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "fc0e4467a55d9c157ea9a4236c377690aff3bcbd5f3201000000000000000000",
+        "block_height": 768747,
+        "block_weight": 3993414,
+        "coinbase_weight": 1108,
+        "coinbase_scriptSig": "\u0003\u000b\u0019Mined by AntPool z\u0002w\u0002o\u0000mm\r\u00dfj\u00034|q\u0016;s9f&\u0015\u00a2q\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "679cbd1cce7fe3ff0453fcf21f87fda5a26a8b1a375e06000000000000000000",
+        "block_height": 768748,
+        "block_weight": 3998250,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003\u000b,mm\u0449y@\"7wsfU$YWO)`^\u0004\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/s\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u00007\u0000\u0000\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "dedecde42b15412659e43dd3c679dba699ce2021bbc407000000000000000000",
+        "block_height": 768749,
+        "block_weight": 3993411,
+        "coinbase_weight": 1084,
+        "coinbase_scriptSig": "\u0003\u000b\u0013binance/807\u0001\u0002Eummcvk*T/\u0019^pb\u000fAy\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000<w\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Binance Pool"
+    },
+    {
+        "hash": "b64a60f504c4ac68ab8361f94f070eb6720cd3754f8505000000000000000000",
+        "block_height": 768750,
+        "block_weight": 3993129,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u000b\u001bMined by AntPool970\u0004\u0003\u6bfbommd\u0007Z\u03a0&j1c0L<\u0002O\u0000\n\\O\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000]\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "d9a5186e62bd9bebd2bb4d4964d7f872daf3c722f0e601000000000000000000",
+        "block_height": 768751,
+        "block_weight": 3993417,
+        "coinbase_weight": 1108,
+        "coinbase_scriptSig": "\u0003\u000b\u0019Mined by AntPool \u0000\u00009\" mm4qZB\u007f2d77!d7\u041cJ\u0447\bJ\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0002\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "8c1e15422b1c525976965b46292a3af74696764fc90002000000000000000000",
+        "block_height": 768752,
+        "block_weight": 3993307,
+        "coinbase_weight": 1084,
+        "coinbase_scriptSig": "\u0003\u000b\u0013binance/779z\u0001\u0001\u0001\u0013\u001fmm=VpLb\u0013\"7I\u0000L\u0003w%Pdi\u0587\u000b\u0014j\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000z\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Binance Pool"
+    },
+    {
+        "hash": "61d5e59ed05831949fc23245718e0bafeaef4b8bce9306000000000000000000",
+        "block_height": 768753,
+        "block_weight": 3993282,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u000b\u001bMined by AntPool830&\u0000\u0001\u0001EhWmmuC@J~<3\u05b1g`qYNKe\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000^~\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "8f4b7ffd07cdebeaa45d7ffd6c50f7a8fa8b8e88319b00000000000000000000",
+        "block_height": 768754,
+        "block_weight": 3993119,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u000b\u001bMined by AntPool877(\u0000\u000b\u0000X\u0003#mm\u0002\u0015gy\u14c5!K\u2927 \u0016kKu=\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000084\u0004\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "7bbf26519198d46752eb20ff40a3624152e5930933e303000000000000000000",
+        "block_height": 768755,
+        "block_weight": 3998214,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003\u000b,mm\u001c\\\u0005\t PJ\u001eM\u023c}CDqeM\u0005\n3:h\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000 \u0001\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "eb248a3d328e47aa22e1f82063487b1bd2790fcc099401000000000000000000",
+        "block_height": 768756,
+        "block_weight": 3993387,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u000b\u001bMined by AntPool849\u0000\u001f\u0002\u0007ucmmhWO\u0010%%\u001b&G\u0012^8FHHP;\u0004\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u00024\u0000\u0000\u0000\u0000H\u007f\u0001",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "d243e3f15cfbcb265e9251f480ecc8148180269c515b04000000000000000000",
+        "block_height": 768757,
+        "block_weight": 3993435,
+        "coinbase_weight": 1152,
+        "coinbase_scriptSig": "\u0003\u000b\u0018/ViaBTC/Mined by 19usj2/,mm;T\u00064!$u\u03345\bb(:>lV)X\u0017\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0001@:\u0010\u0003\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "ViaBTC"
+    },
+    {
+        "hash": "cba9ca16d99fbf632a69d7beee6bcd990b5dc82589ca04000000000000000000",
+        "block_height": 768759,
+        "block_weight": 3998057,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003\u000b,mm\\l7O\b\u0006\u0014\u06cf9d\u001e\u0015xdW\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000X\u0006\u0000\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "a6a04058cc84271a3ce06fe1b979af39709fde7b126706000000000000000000",
+        "block_height": 768760,
+        "block_weight": 3993059,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003\u000b\u0004Pc/Foundry USA Pool #dropgold/\u001c!\u0000\u0000H\r\u0001\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "51a2fed101e9218e05342a41b1eac8127bbef8368f3f00000000000000000000",
+        "block_height": 768761,
+        "block_weight": 3993373,
+        "coinbase_weight": 1084,
+        "coinbase_scriptSig": "\u0003\u000b\u0013binance/804\u0002E\u0000-\bgmmF,}WVA(D\u0006\"b\u0002-5i\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0013:\u0000\u0000\b,\r\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Binance Pool"
+    },
+    {
+        "hash": "0bb31e62f7640f12c04d87bfd4fb38776f5f2ebaea9206000000000000000000",
+        "block_height": 768762,
+        "block_weight": 3993167,
+        "coinbase_weight": 1084,
+        "coinbase_scriptSig": "\u0003\u000b\u0013binance/804\u0002E\u00015\u0005mm\u0622v\u0016#TX3X[\u0013}PH\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0406=p\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Binance Pool"
+    },
+    {
+        "hash": "0140f440d64422ff1cd8a296211866e54e8b583e43cf04000000000000000000",
+        "block_height": 768763,
+        "block_weight": 3993149,
+        "coinbase_weight": 1076,
+        "coinbase_scriptSig": "\u0003\u000bmm6\r5\u01ce\u0005\u0000}oTM*\u0016N:)/\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\te\u0005\u0000cdC3\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0007\u0006\u03d4\u0002/slush/",
+        "miner": "Braiins Pool"
+    },
+    {
+        "hash": "ec8b44cf513c69cfad5bd701b1461224537bcee8564400000000000000000000",
+        "block_height": 768764,
+        "block_weight": 3992867,
+        "coinbase_weight": 720,
+        "coinbase_scriptSig": "\u0003\u000b\u000b/Mara Pool/\u001a\u0001\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u001eE\b\u0014\u0004\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "MARA Pool"
+    },
+    {
+        "hash": "8925d72290f8e7fc1fc172716f097306021aa9fbf36004000000000000000000",
+        "block_height": 768765,
+        "block_weight": 3993284,
+        "coinbase_weight": 1108,
+        "coinbase_scriptSig": "\u0003\u000b\u0019Mined by AntPool \u0001\u0003G^$mm{BP\u001b-\u0182Q|Rqw#p\u0216\u0015H~$\u0475\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "5a88b9133d3b530483151978e63a0f4e86600232767203000000000000000000",
+        "block_height": 768766,
+        "block_weight": 3998278,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003\u000b,mm~q\u0114\f:5F*5\u0666s\u0019$Kp$\u0015Z\u0005Ez\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/s\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u0016c",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "3ae9ce8a7189e611c7507364e4733fdbd2c5e6208e0c01000000000000000000",
+        "block_height": 768767,
+        "block_weight": 3998061,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003\u000b,mm\u0007Z{Xg\u0011\f\u07bc_\u0005\u001c\u0005'\u00062%\"\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u001e\u0000\u0000\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "bf222135e51f62fa99636adb8314ede0d6886732296601000000000000000000",
+        "block_height": 768769,
+        "block_weight": 3993136,
+        "coinbase_weight": 1108,
+        "coinbase_scriptSig": "\u0003\u0001\u000b\u0019Mined by AntPool \u0002\u0000];\u0003mmc/:b}HaW7):G\u007f2\u0005!\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00007\u0019\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "54901a5bfc167a9841a0ee1a1c655bc96f81e7f392e401000000000000000000",
+        "block_height": 768770,
+        "block_weight": 3993124,
+        "coinbase_weight": 1120,
+        "coinbase_scriptSig": "\u0003\u0002\u000b\u001cMined by AntPool883\u0000\u0002]?\u000e\u0001mm\u0002nu\u0337r\u0005\u0005\u0001\u0013\u0002oF3b\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0017]\u0000\u0000\u0016\u0002\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "90698c3ddd8a5e44f0b916445be04c37d4a917ec636c06000000000000000000",
+        "block_height": 768771,
+        "block_weight": 3992953,
+        "coinbase_weight": 760,
+        "coinbase_scriptSig": "\u0003\u0003\u000b,\\ Powered by Luxor \\\u0000\u0000\u0000\u0000*;\u0000\f:\fi\u0001\u0000\u0000\u0000\u0000\u0000",
+        "miner": "unknown pool"
+    },
+    {
+        "hash": "2d0f982b15ef07998e58678da636efa5e2967a6fe59e06000000000000000000",
+        "block_height": 768772,
+        "block_weight": 3993290,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u0004\u000b\u001bMined by AntPool907\u0000)\u0002fuX$mm\"CXp\u00058Z'R\u0007d|kn\u0011\u0002P(~ft\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Z\n\u03b4\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "542f6dc241d06173ae22eba409462b06eadcf6a7281d02000000000000000000",
+        "block_height": 768773,
+        "block_weight": 3993222,
+        "coinbase_weight": 1164,
+        "coinbase_scriptSig": "\u0003\u0005\u000b\u001b/ViaBTC/Mined by dddaaattt/,mm\u007f1WE\naYXt3q\u0004iW\bt\u0014A\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010g\u0000|\u0237\u0002nN\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "ViaBTC"
+    },
+    {
+        "hash": "f0b2947901a04205271ce8dec100695ee33d76c81cc103000000000000000000",
+        "block_height": 768774,
+        "block_weight": 3992870,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003\u0006\u000b\u0004I~c/Foundry USA Pool #dropgold/\u0005W:\u0010\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "fe4b0806bf6fbf0c0bc43aa11770e9c26d21a6b9b1dc02000000000000000000",
+        "block_height": 768775,
+        "block_weight": 3998260,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003\u0007\u000b,mm*]i\fLR.W{o\u0168L<\u0000`\u0011z\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000l\u0001\u0000\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "799af2c61f2636fca157e39794b86053a74196aa8edf03000000000000000000",
+        "block_height": 768776,
+        "block_weight": 3993064,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003\b\u000b\u0004)c/Foundry USA Pool #dropgold/ \u02e1\u0000\u0000\t,\u0001\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "d90ded604c486223dc2f93bdd5e4d05b4ca71745b3d204000000000000000000",
+        "block_height": 768777,
+        "block_weight": 3993137,
+        "coinbase_weight": 1084,
+        "coinbase_scriptSig": "\u0003\t\u000b\u0013binance/825\u00021\u0003Kmm;\u0010t\u0002\u0001&h\u0006\u007fT^nX\u00069AJ\u001a\u0319\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u00005\u0000\u0000/\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Binance Pool"
+    },
+    {
+        "hash": "6d54e3e6c61b37d73a2a37de7fc66ef6175cda60a74602000000000000000000",
+        "block_height": 768778,
+        "block_weight": 3993241,
+        "coinbase_weight": 1160,
+        "coinbase_scriptSig": "\u0003\n\u000b\u001a/ViaBTC/Mined by sofos888/,mm\r\u000eA\u001cb\u0011{StM@\u0013@\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0001\u0293S\u0004\u0000\u0000\u0000\u0000\u0000",
+        "miner": "ViaBTC"
+    },
+    {
+        "hash": "f2c330f2070122eecc7927f514548c1605bf834ed69e06000000000000000000",
+        "block_height": 768779,
+        "block_weight": 3993445,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u000b\u000b\u001bMined by AntPool806\u0002\u001d\u0001.mmH\u000f&p\u000eFAlHs\u000eh\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Q\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "4d417a211d73a8990018533ed541dac2f88179f2adbe05000000000000000000",
+        "block_height": 768780,
+        "block_weight": 3993325,
+        "coinbase_weight": 1120,
+        "coinbase_scriptSig": "\u0003\f\u000b\u001cMined by AntPool859\u0002Y\u0003\u0012\u0007\u0001mmc\u0000Rfc s>O0\u000fp\t5\u0003-<\u0011\u07db\u001b\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000vO\u0004\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "05d696b3b0cc993c0a602e1318136a992a8f494fa32705000000000000000000",
+        "block_height": 768781,
+        "block_weight": 3992977,
+        "coinbase_weight": 960,
+        "coinbase_scriptSig": "\u0003\r\u000b\u001c/ViaBTC/Mined by stellam30s/,mmnse~H\u001fo%[b=3P$;\u0013\u00130\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010&\b\u0013\u0000\t?+Q\u001d\u0013\u0000\u0000\u0000\u0000\u0000",
+        "miner": "ViaBTC"
+    },
+    {
+        "hash": "1330d3f2cdcfe68c0d94ba356d90373127be9947166d03000000000000000000",
+        "block_height": 768782,
+        "block_weight": 3993304,
+        "coinbase_weight": 1088,
+        "coinbase_scriptSig": "\u0003\u000e\u000b\b/ViaBTC/,mmBC`4\b\t,N1=v|x_K9v\t\u007f\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010.\u0002\u000f$E\"T\u0001\u0000\u0000\u0000\u0000\u0000",
+        "miner": "ViaBTC"
+    },
+    {
+        "hash": "986112a5387bb6f56267f741b16362efdb08ea904b7104000000000000000000",
+        "block_height": 768783,
+        "block_weight": 3998031,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003\u000f\u000b,mmMLtfM\b|/?d 4\u0014\u0000zg[\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/s\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u00008\u0000\u0000\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "6ad33c5a9b7d0c4f9971fcb5d4e0cdcfa6abfec2c81604000000000000000000",
+        "block_height": 768786,
+        "block_weight": 3992855,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003\u0012\u000b\u0004\nc/Foundry USA Pool #dropgold/\u000e\u4290a\u0019\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "83e3ecaf98319741c686fb7c97712ca57f4a89db274b02000000000000000000",
+        "block_height": 768788,
+        "block_weight": 3998146,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003\u0014\u000b,mmu\u0014Dn\"\u0018:Q\u0016\u0000\u0747\u410cHC\u0345vu\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/s\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000!\u0016c",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "310413ba4d77ad3e4bd34c045d3f694246ecca0df15e05000000000000000000",
+        "block_height": 768789,
+        "block_weight": 3993360,
+        "coinbase_weight": 1084,
+        "coinbase_scriptSig": "\u0003\u0015\u000b\u0013binance/823H\u0000\u0001\u00023Zmmy2c\u0004FTA\u0015yR uB\"\u000b\u000e\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\b!Z\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Binance Pool"
+    },
+    {
+        "hash": "e0c4d8eb2333b7699f2b56a1e8bc974914d2be01757d00000000000000000000",
+        "block_height": 768791,
+        "block_weight": 3993400,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u0017\u000b\u001bMined by AntPool866\u0000\u0001Amm\ua784G[LI]\u0012\u000f\u0003l\u0004U\u0556!Kl\u0015\u0016\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00037\u0000\u0000\u001b\u0001\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "979d3a85292d755f1c6cf1e356b1da6412e0c3f9116a04000000000000000000",
+        "block_height": 768792,
+        "block_weight": 3993468,
+        "coinbase_weight": 1164,
+        "coinbase_scriptSig": "\u0003\u0018\u000b\u001b/ViaBTC/Mined by b2cmining/,mm:\u03c6\u0003\u048b5\u0019\b:1\u0120\u0002E\u0006C/Ik=m>\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010/#\u0003c\u00077cO\u0001;\u0000\u0000\u0000\u0000\u0000",
+        "miner": "ViaBTC"
+    },
+    {
+        "hash": "8e6c75e3e039d5feb4c2220ca1f16145e3295043f9a006000000000000000000",
+        "block_height": 768793,
+        "block_weight": 3992860,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003\u0019\u000b\u0004c/Foundry USA Pool #dropgold/\u0005@~\u0000\u0000&b\u0015\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "758f7986473d81807ed94b8f3c13b38c4eca0c1491b002000000000000000000",
+        "block_height": 768794,
+        "block_weight": 3998109,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003\u001a\u000b,mmCTZ\tz:.\u0013}swx\r\f,{|\u0016`\u000e\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/s\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "74d62d225fd5781d513f1e15e7d66d93de7cb1c9922303000000000000000000",
+        "block_height": 768814,
+        "block_weight": 3993408,
+        "coinbase_weight": 1084,
+        "coinbase_scriptSig": "\u0003.\u000b\u0013binance/825\u0002\u0001\u0000\u0002mmL\fK],\\4\u0003.Xx \u0015L_m\u0012\t;*\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00008\u0017\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Binance Pool"
+    },
+    {
+        "hash": "4e8a2860d24d19c5d50a8b39c1bcbd67399caf02ea0c03000000000000000000",
+        "block_height": 768827,
+        "block_weight": 3993239,
+        "coinbase_weight": 1068,
+        "coinbase_scriptSig": "\u0003;\u000b\u0013binance/809\u0002;\u0003-mm|W\u02a6R$\"5\u0007M\u0019\u001fH!M\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001a\u0000\u0000^\u0000\u0000",
+        "miner": "Binance Pool"
+    },
+    {
+        "hash": "96a1f94ca0ba93516c7967d4ee27d3e50718ee4f5f5f06000000000000000000",
+        "block_height": 768840,
+        "block_weight": 3993053,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003H\u000b\u0004J\u0005c/Foundry USA Pool #dropgold/\u001d!\u0016\u0000\u0000\u001cE\u0012\u0012\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "68c4d345b31831187b2214b71e8de5a99e47d8a3ce5306000000000000000000",
+        "block_height": 768841,
+        "block_weight": 3998272,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003I\u000b,mm\u000f\\u\u0014CfC\u067c\u001ev\u000f\u000b3Jx@%C`\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u0003\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "268b78a078b471f73017e0c17b4716ef5a0999d63b2707000000000000000000",
+        "block_height": 768854,
+        "block_weight": 3993416,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003V\u000b\u001bMined by AntPool805\u0001\u0001n1hmm\u0012\u001cC;<\t\u04b2!2\u001cg2:i\u001b<@5\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000<CQ\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "6b3482505bb85b30337b877ee95a8986f2deb6faa3dc01000000000000000000",
+        "block_height": 768855,
+        "block_weight": 3998259,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003W\u000b,mm\u0016\u0475\u000bPB\u001e4\u00137[\u0018p\u0018\u0013\u0013}k\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/m\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000ZD\u0000\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "e251cfcc28f3e831e620822a248013fdfa2fb86ad17e01000000000000000000",
+        "block_height": 768856,
+        "block_weight": 3998220,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003X\u000b,mm\u0010G@6tl0cq)(\u0004!c2^\u001dD;\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/g\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000u\u0012\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "9180be1b381a7a328370e81ca8998adcfb82ea90576304000000000000000000",
+        "block_height": 768865,
+        "block_weight": 3993375,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003a\u000b\u001bMined by AntPool866\u0000\u0001\u00165mm@5\u007f\u008a\u001eli\fwZZ)\u007f$\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00005M\u0007\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "3199a66362fbe108346547a80248948b31d35ed7957707000000000000000000",
+        "block_height": 768866,
+        "block_weight": 3993310,
+        "coinbase_weight": 1088,
+        "coinbase_scriptSig": "\u0003b\u000b\u0014/ultimus/983\u0004k\u0002C\u0017mmXRsYk\b%6v.$DzePC\n\u0000\u0011\u000fj\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\u0667\u0001\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Ultimus Pool"
+    },
+    {
+        "hash": "793e09296ad561f950b61a9ac96891bb4023886d08e503000000000000000000",
+        "block_height": 768867,
+        "block_weight": 3993402,
+        "coinbase_weight": 1108,
+        "coinbase_scriptSig": "\u0003c\u000b\u0019Mined by AntPool \u0000\u0002zmmZ,Ng!'\u0001tZ\u000e_\u00f70\u0004\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000^\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "00a2c721b4ce3d0ec85f78e644ce3d24fc95b256b18707000000000000000000",
+        "block_height": 768868,
+        "block_weight": 3992999,
+        "coinbase_weight": 720,
+        "coinbase_scriptSig": "\u0003d\u000b\u000b/Mara Pool/\u001a\u0001\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0018\u000bh=\u0000\u0000\u0000N\u0001\u0000\u0000",
+        "miner": "MARA Pool"
+    },
+    {
+        "hash": "5674865bc9a1420eeb61d4e28077e52fcfa31dd6a62203000000000000000000",
+        "block_height": 768870,
+        "block_weight": 3993231,
+        "coinbase_weight": 960,
+        "coinbase_scriptSig": "\u0003f\u000b\u001c/ViaBTC/Mined by nikolaytar/,mm\u022dT\u000b\rv%(3lrM29U\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u000f\u0013$W\u000fMz\u0005\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "ViaBTC"
+    },
+    {
+        "hash": "4037616f966106650ab8ddc17bfd0fe15605d814968202000000000000000000",
+        "block_height": 768871,
+        "block_weight": 3993402,
+        "coinbase_weight": 1076,
+        "coinbase_scriptSig": "\u0003g\u000bmmO\u0338;\u0000\u000f:Osm>tGM4\u001bc\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001e\u0005\u0000#\u001a5\u0000\u0000\u0000\u0000\u0000\u06a1s\u0002/slush/",
+        "miner": "Braiins Pool"
+    },
+    {
+        "hash": "24f2d35d02669351dfa61ce0039ae489cf178a8d68e605000000000000000000",
+        "block_height": 768872,
+        "block_weight": 3993330,
+        "coinbase_weight": 1088,
+        "coinbase_scriptSig": "\u0003h\u000b\b/ViaBTC/,mmx5\u0014\u0003\u0018bfD:S\u0777\u001c_}\u0000\u024bZ&\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010C-\u0001`\u001eg\u001dbRWUR\u0000\u0000\u0000\u0000",
+        "miner": "ViaBTC"
+    },
+    {
+        "hash": "edd689cb4994ba603459e2dc79adc039fda8e2ef054a06000000000000000000",
+        "block_height": 768873,
+        "block_weight": 3993361,
+        "coinbase_weight": 1108,
+        "coinbase_scriptSig": "\u0003i\u000b\u0019Mined by AntPool \u0003\r\u0002\u05edmm}\u0642)D\u001a5U\u001cIT\u0015\u001aQ@+h\rz#\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000v\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "b00267f32804e6df0c7bf24bfcd2f2fdc6f13fc4aab502000000000000000000",
+        "block_height": 768874,
+        "block_weight": 3993334,
+        "coinbase_weight": 1068,
+        "coinbase_scriptSig": "\u0003j\u000b\u0013binance/809\u0002;\u00017\u01e2mm&\u00f5AA\u0004o|D1\u000e`\u0014X~1\u0004Ey!\u007f\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f*\u0000\u0000A\b\u0000",
+        "miner": "Binance Pool"
+    },
+    {
+        "hash": "eb80796ff293adfcec98b973103b8370072ac184bb7103000000000000000000",
+        "block_height": 768876,
+        "block_weight": 3993115,
+        "coinbase_weight": 940,
+        "coinbase_scriptSig": "\u0003l\u000b\u0017/ViaBTC/Mined by mw001/,mm=/9B\"%\u0012\";Eu\u001f!\u001etuH\u63ccw\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0007\u0010\u0013&\u055b\u0003\u001c9\u0001\u0000\u0000\u0000\u0000\u0000",
+        "miner": "ViaBTC"
+    },
+    {
+        "hash": "9734d95bfe229f9dbd5e806fd43c3234b76b05fe40a906000000000000000000",
+        "block_height": 768880,
+        "block_weight": 3998116,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003p\u000b,mmm\u0019^\u0010bR}e`\u00028'Z=\u0010i|Q9\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/s\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000 {c",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "cd7318ae11b91ebe11982086f31d0da10aca1ed231a007000000000000000000",
+        "block_height": 768882,
+        "block_weight": 3998293,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003r\u000b,mmA=:\u001c\u01c8l\u001e66\u0018rN$vP4\u001e\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u0002\u0000\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "2249b1e684d4f12fc548d6e946393d24b921c72ceec400000000000000000000",
+        "block_height": 768884,
+        "block_weight": 3993042,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003t\u000b\u0004\u0012c/Foundry USA Pool #dropgold/\u0011\u007fDx\u0006\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "3e9c3c1d8386c5cc09c62e28a019ffa33814fe760ef206000000000000000000",
+        "block_height": 768885,
+        "block_weight": 3993270,
+        "coinbase_weight": 1076,
+        "coinbase_scriptSig": "\u0003u\u000bmm#R3B\u007f_m%\u78810Sc \u001d\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005e\u0007\u0000)EQ\u0012\u0000\u0000\u0000\u0000\u0000\u0000[\u0002/slush/",
+        "miner": "Braiins Pool"
+    },
+    {
+        "hash": "06d72a031e81ae5756f7a3469c991bfb3ddfe73d212b05000000000000000000",
+        "block_height": 768886,
+        "block_weight": 3993027,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003v\u000b\u0004\u048ec/Foundry USA Pool #dropgold/\u0017\u001f2u\u063d\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "1ee8b41641e8aaeb540900ab1dcfba83db58ff867b6e04000000000000000000",
+        "block_height": 768887,
+        "block_weight": 3993399,
+        "coinbase_weight": 1084,
+        "coinbase_scriptSig": "\u0003w\u000b\u0013binance/880z\u0001\u0000\u0017\u00d3mmYK\u0012\u0016\u00185\u0019\u0019\u000bJ\"YJOuO.\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0015s\u0001\u0002\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Binance Pool"
+    },
+    {
+        "hash": "e3ec2e4c4defa21dcd23f23be828dc07c8f5c9cce4c905000000000000000000",
+        "block_height": 768888,
+        "block_weight": 3993288,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003x\u000b\u001bMined by AntPool906\u00003\u0003\u0018pmmC\u0759t2:\u001er\u001b\u000b\u0011@=;\u04e1)\\+\f\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(f:\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "05cee44229610676e4ad6b12dde07409e19341683a1a01000000000000000000",
+        "block_height": 768890,
+        "block_weight": 3993004,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003z\u000b\u0004&c/Foundry USA Pool #dropgold/\u0019N\u0000\u0000\u0007\u0000\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "e09ed11db4e2b126479142e035d371d0bd30c1da48a306000000000000000000",
+        "block_height": 768891,
+        "block_weight": 3993426,
+        "coinbase_weight": 1168,
+        "coinbase_scriptSig": "\u0003{\u000b\u001c/ViaBTC/Mined by mahdi13722/,mm=\n\u079e_?\u0010KQp\u07a4^\u0007mM9!\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0001B){g\u0000\u0000\u0000\u0000\u0000",
+        "miner": "ViaBTC"
+    },
+    {
+        "hash": "eeffa3fb7958af74078f11201a33e888e0bdc6a4de7f02000000000000000000",
+        "block_height": 768892,
+        "block_weight": 3992950,
+        "coinbase_weight": 720,
+        "coinbase_scriptSig": "\u0003|\u000b\u000b/Mara Pool/\u001a\u0001\u0000\u0002\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u001cE\u0004\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "MARA Pool"
+    },
+    {
+        "hash": "c6a863119f1b87e008a55a1a022491bb0dd8b6131a2403000000000000000000",
+        "block_height": 768893,
+        "block_weight": 3993366,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003}\u000b\u001bMined by AntPool850\u0000Q\u000355mm]h\u0006@~m5\u05d3\f\u36869G ekO\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "b3a6020f76b0e894e3b2478bf0748d03dc04ccc5808d00000000000000000000",
+        "block_height": 768894,
+        "block_weight": 3993173,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003~\u000b\u001bMined by AntPool866\u0000\u00007omm;.\u001d)\u00004\u001f\u025aw$h[3\u0004VR\n\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000lx\u0004\u0001\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "cb47f85d273a15a6eb7757062078718b9367d905085702000000000000000000",
+        "block_height": 768896,
+        "block_weight": 3993027,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003\u000b\u0004dc/Foundry USA Pool #dropgold/\rc\u0000\u0000\u0007\u0004)\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "04d5beb414147192dbec67a55194473fc501ef92d09205000000000000000000",
+        "block_height": 768897,
+        "block_weight": 3993183,
+        "coinbase_weight": 948,
+        "coinbase_scriptSig": "\u0003\u000b\u0019/ViaBTC/Mined by superdr/,mm\u0012a>7%\u0003\f\u0010Yp\u0005\u0014Ow\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0012\u0013&\u055buPVi\u0000\u0000\u0000\u0000\u0000",
+        "miner": "ViaBTC"
+    },
+    {
+        "hash": "1cdae405478cf9429076f0c98e00ffb1f215ed4a96aa03000000000000000000",
+        "block_height": 768898,
+        "block_weight": 3992906,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003\u000b\u0004\u03b4c/Foundry USA Pool #dropgold/\u001e\u0005S\u0019\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "4c8917ccfe4eeed0ea94727f7bed6b5fd0e6cc725c0903000000000000000000",
+        "block_height": 768899,
+        "block_weight": 3993388,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u000b\u001bMined by AntPool851H\u0000\u000b\u0000Q\u001c\u0018mml\u0002\u001ca\u0016k.6C\u6af0\r\u0004C\u001d\u00116\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000D\u0001\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "018ebf2838162286b53736e02465861d2fe98784d1f903000000000000000000",
+        "block_height": 768900,
+        "block_weight": 3992777,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003\u000b\u00043c/Foundry USA Pool #dropgold/\u0015lW\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "364cfd952c5abc6ce3aa30fb3a927cb0ab8ef56d33c700000000000000000000",
+        "block_height": 768906,
+        "block_weight": 3998321,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003\u000b,mm;1\u001a\u001d\u0018\u00116<Ls\u0003/\u0000\u0010\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/g\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u0015j\u0000\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "30c1d45c02cd6686728e04654967a61d78160d64e34602000000000000000000",
+        "block_height": 768907,
+        "block_weight": 3998303,
+        "coinbase_weight": 1364,
+        "coinbase_scriptSig": "\u0003\u000b,mmXc{n\f-\u0360AWt\u0012A q06\u001bfIM~\u0010\u0000\u0000\u0000\ud83d\udc1f\t/F2Pool/f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000849\u0000",
+        "miner": "F2Pool"
+    },
+    {
+        "hash": "eebe3fb6c3e6ea5885d9c30d6725996baf06eef845c106000000000000000000",
+        "block_height": 768917,
+        "block_weight": 3993034,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003\u000b\u0004c/Foundry USA Pool #dropgold/\u0013U\u0004\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "0f8283a2ab18fcf9bce70ad3643708896663be77ec4a07000000000000000000",
+        "block_height": 768925,
+        "block_weight": 3993195,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u000b\u001bMined by AntPool858\u0002O\u0002mm;,l9\u000bLIb\b\u000fZf\u07c7+B\u0005a,)X\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "831daa4fab9c2ea37a8dcde33ac065fd8a26843b139305000000000000000000",
+        "block_height": 768926,
+        "block_weight": 3993355,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u000b\u001bMined by AntPool859\u0002Y\u0003\u0001mmmc6L8l\u0007$\u0003}}\u001a7\u00153\u0010OhO\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000T3\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "ababc6821ac061fe8ff0d7afff0ecec05f2775b6452700000000000000000000",
+        "block_height": 768945,
+        "block_weight": 3993277,
+        "coinbase_weight": 956,
+        "coinbase_scriptSig": "\u0003\u000b\u0019/ViaBTC/Mined by lizmine/,mmeQP3jM-;,F\u0003q\u0017\u0137|>L\u0007:\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012+B\u0011l1\u0516I!\u0000\u0000\u0000\u0000\u0000",
+        "miner": "ViaBTC"
+    },
+    {
+        "hash": "63b0509b83b90caf7879d37f999d40a424cddcc5b9c500000000000000000000",
+        "block_height": 768946,
+        "block_weight": 3992795,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003\u000b\u0004 c/Foundry USA Pool #dropgold/\u0004^\u0003U\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "ba231e4d2a1e82b1b80ab98be0232d93ace2a9e034fb00000000000000000000",
+        "block_height": 768955,
+        "block_weight": 3992977,
+        "coinbase_weight": 748,
+        "coinbase_scriptSig": "\u0003\u000b\u0004=c/Foundry USA Pool #dropgold/\u001e&\u001dR-\u0000\u0000\u0000\u0000\u0000",
+        "miner": "Foundry USA"
+    },
+    {
+        "hash": "96f31918518efddad1959fa25a4b25daf9f62e314dc201000000000000000000",
+        "block_height": 768957,
+        "block_weight": 3993326,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u000b\u001bMined by AntPool850\u0000Q\u0003)h\u0018:mmCBhX\u001c\u001f\u007f\u0150H84Y(9\u000b~Z\u0005<\u0016j\u04ef\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000D9)\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    },
+    {
+        "hash": "c85b2a2d227da07f35ab3b0008f3514ca4bd698d12a603000000000000000000",
+        "block_height": 768964,
+        "block_weight": 3993268,
+        "coinbase_weight": 1116,
+        "coinbase_scriptSig": "\u0003\u013b\u000b\u001bMined by AntPool877(\u0000\u000b\u0000<=%\u001fmm\u0726OiY\u007f7J\u06195\u02e4\u0012E_\u00142\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000k\u0004\u0000\u0000\u0000\u0000\u0000\u0000",
+        "miner": "AntPool"
+    }
+]
